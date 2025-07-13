@@ -8,6 +8,8 @@ clear
 npm i axios
 clear
 sudo apt install curl openssl
+clear
+sudo apt install openssl
 npm i colors
 clear
 npm i http 
